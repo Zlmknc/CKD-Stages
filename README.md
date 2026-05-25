@@ -13,11 +13,11 @@ Literatürdeki KBH makine öğrenmesi çalışmalarının büyük çoğunluğu, 
 
 ### Özellikler
 
-- ✅ **Sızıntısız tasarım** — eGFR ve serum kreatinin özellik setinden tamamen çıkarıldı
-- ✅ **KDIGO 2012 uyumlu** — Evre 1–5 arası 5 sınıflı etiketleme
-- ✅ **SMOTE** ile sınıf dengesizliği giderimi (yalnızca eğitim setine uygulandı)
-- ✅ **GridSearchCV** hiperparametre optimizasyonu
-- ✅ **SHAP etkileşim analizi** — hipoalbüminemi × hipertansiyon sinerjik risk sinyali
+- **Sızıntısız tasarım** — eGFR ve serum kreatinin özellik setinden tamamen çıkarıldı
+- **KDIGO 2012 uyumlu** — Evre 1–5 arası 5 sınıflı etiketleme
+- **SMOTE** ile sınıf dengesizliği giderimi (yalnızca eğitim setine uygulandı)
+- **GridSearchCV** hiperparametre optimizasyonu
+- **SHAP etkileşim analizi** — hipoalbüminemi × hipertansiyon sinerjik risk sinyali
 
 ---
 
